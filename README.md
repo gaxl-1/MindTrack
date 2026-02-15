@@ -116,4 +116,4 @@ Si deseas colaborar, por favor abre un Pull Request o crea un Issue.
 
 ---
 
-**Desarrollado con ❤️ por el equipo de MinTrack.**
+**Desarrollado con ❤️ por GaelDev.**
